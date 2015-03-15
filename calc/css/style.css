@@ -1,0 +1,86 @@
+button {
+    margin: 0px;
+    margin-left: 0px;
+    margin-right: -4px;
+    cursor:pointer; 
+    width: 40px;
+    height: 40px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; //Verdana, Geneva, sans-serif;
+    background-color: #363636;
+    color: #fff;
+    border: 1px solid;
+    border-color: #000;
+    font-size: 1.4em;
+    
+}
+#equals{
+    position: absolute;
+    bottom: 2px;
+    left: 2px;
+    width: 80px;
+}
+ #input { 
+     margin: 10px 2px 2px 2px;
+     border: 1px solid;
+     width: 140px;
+     text-align: right;
+     width: 158px;
+     height: 30px;
+     font-size: 1.6em;
+ }
+ .num{
+     border: 0px solid;
+     margin: 0px;
+     margin-left: 2px;
+     width: 120px;
+     height: 160px;
+     float: left;
+ }
+ .operdiv{
+     border: 0px solid;
+     margin: 0px; 
+     width: 39px;
+     height: 210px;
+     float: left;
+ }
+ .block{
+     position: absolute;
+     border: 1px solid;
+     width: 164px;
+     height: 247px;
+     background-color: #999999;
+ }
+ #block2{
+     border: 1px solid;
+     width: 123px;
+     height: 247px;
+     position: absolute;
+     left: 164px;
+     bottom: -1px;
+     background-color: #999999;
+     font-size: 0.9em;
+     
+ }
+ #btn_bl2{
+     position: absolute;
+     bottom: 2px;
+     right:  6px;
+     font-size: 0.8em;
+     width: 80px;
+     
+ }
+ .log{
+     width: 40px;
+     margin: 2px -6px -2px 2px;
+ }
+ .oper{
+     width: 40px;
+     height: 40px;
+ }
+ #memory{
+     width: 117px;
+     text-align: center;
+     background: #999999;
+     border:1px solid #5e5e5e;
+     margin: 2px;
+ }
